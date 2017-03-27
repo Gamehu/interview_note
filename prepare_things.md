@@ -7,3 +7,5 @@
 * vue
 * reactjs
 * kafka
+* RocketMQ
+* message queue
