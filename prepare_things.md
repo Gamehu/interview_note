@@ -6,3 +6,4 @@
 * restful
 * vue
 * reactjs
+* kafka
